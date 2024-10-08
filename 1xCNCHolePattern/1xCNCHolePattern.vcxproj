@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{f0350810-bd89-4da9-8def-9138f4740e2a}</ProjectGuid>
-    <RootNamespace>CNCHolePattern</RootNamespace>
+    <ProjectGuid>{52bbf1d2-53ac-407b-96e4-f5e27b91b462}</ProjectGuid>
+    <RootNamespace>My1xCNCHolePattern</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="3xCNCHolePattern.cpp" />
     <ClCompile Include="1xCNCHolePattern.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

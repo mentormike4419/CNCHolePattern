@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1xCNCHolePattern.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="3xCNCHolePattern.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
